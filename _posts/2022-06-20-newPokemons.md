@@ -16,27 +16,27 @@ date: 2022-06-20
 
 ### Eevee
 
-> <img src="../assets/images/Eevee.jpg" width="30%" alt="Eevee">
+> <img src="./assets/images/Eevee.jpg" width="30%" alt="Eevee">
 
 ### Espeon
 
-> <img src="../assets/images/Espeon.jpg" width="30%" alt="Espeon">
+> <img src="./assets/images/Espeon.jpg" width="30%" alt="Espeon">
 
 ### Umbreon
 
-> <img src="../assets/images/Umbreon.jpg" width="30%" alt="Umbreon">
+> <img src="./assets/images/Umbreon.jpg" width="30%" alt="Umbreon">
 
 ### Sylveon
 
-> <img src="../assets/images/Sylveon.jpg" width="30%" alt="Sylveon">
+> <img src="./assets/images/Sylveon.jpg" width="30%" alt="Sylveon">
 
 ### Glaceon
 
-> <img src="../assets/images/Glaceon.jpg" width="30%" alt="Glaceon">
+> <img src="./assets/images/Glaceon.jpg" width="30%" alt="Glaceon">
 
 ### Leafeon
 
-> <img src="../assets/images/Leafeon.jpg" width="30%" alt="Leafeon">
+> <img src="./assets/images/Leafeon.jpg" width="30%" alt="Leafeon">
 
 ---
 
