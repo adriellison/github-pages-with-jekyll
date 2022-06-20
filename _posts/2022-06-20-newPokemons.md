@@ -1,3 +1,7 @@
+---
+title: "New Pokémons Add"
+date: 2022-06-20
+---
 ## New Pokémons Add
 
 [🏡 - Home](../index.md)
