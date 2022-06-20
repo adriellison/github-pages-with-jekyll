@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages :fire:
+## Welcome to GitHub Pages 🔥
 
 > <img src="./assets/images/Charmander.jpg" width="30%" alt="Charmander">
 
